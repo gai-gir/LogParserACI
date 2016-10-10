@@ -13,6 +13,8 @@ public class Message implements Comparable<Message>{
 		this.datetime = datetime;
 		this.message = message;
 	}
+	
+	//master change
 
 	public Date getDatetime() {
 		return datetime;
